@@ -11,7 +11,6 @@ A full-stack task management web application built using Next.js, MongoDB, JWT A
 - Task status tracking
 - Dashboard analytics
 - Overdue task monitoring
-- Responsive modern UI
 
 ## Tech Stack
 
